@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Biomics Research Division, Generasi Biologi Indonesia Foundation"
-excerpt: About the lab:
+excerpt: "About the lab:"
 author_profile: true
 redirect_from: 
   - /about/

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biomics Research Division, Generasi Biologi Indonesia Foundation"
+title: "Biomics Research Division (BIOMIKA)"
 excerpt: "About the lab:"
 author_profile: true
 redirect_from: 

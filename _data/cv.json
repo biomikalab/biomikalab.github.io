@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "BIOMIKA Lab",
-    "email": "none@example.org",
+    "email": "",
     "phone": "",
     "website": "https://biomikalab.github.io",
     "summary": "Biomics Research Division of the Generasi Biologi Indonesia Foundation",
@@ -16,12 +16,12 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
@@ -33,26 +33,26 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "",
+      "area": "",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "",
+      "area": "",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "",
+      "area": "",
       "studyType": "",
       "startDate": "",
       "endDate": "2012",
